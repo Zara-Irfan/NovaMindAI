@@ -1,4 +1,4 @@
-# NovaMind — AI Chat Application
+# NovaMind — AI Assistant Application
 
 A fully custom AI chat web app powered by OpenRouter. Stream responses from GPT-4o, Claude, Llama, and more — all through your own server with your own branding.
 
