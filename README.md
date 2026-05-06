@@ -72,12 +72,13 @@ Set Root Directory to backend
 Set Start Command to node server.js
 Go to the Variables tab and add:
 
-OPENROUTER_API_KEY=your_key_here
-OPENROUTER_API_KEY_2=your_backup_key_here
-PORT=3001
-SITE_URL=https://your-app.up.railway.app
-Click Deploy — your app will be live in about a minute
-Go to Settings → Networking → Generate Domain to get your public URL
+OPENROUTER_API_KEY = your_key_here
+OPENROUTER_API_KEY_2 = your_backup_key_here
+PORT = 3001
+SITE_URL = https://your-app.up.railway.app
+Click Deploy and your app will be live in about a minute
+Go to Settings
+  Networking → Generate Domain to get your public URL
 Update SITE_URL in Variables to match your actual Railway URL
 Updating Your Live App
 Every time you make changes locally, run these 3 commands:
